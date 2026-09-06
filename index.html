@@ -28,6 +28,9 @@
 </head>
 
 <body>
+  <!-- Moving Constellation Particle Canvas -->
+  <canvas id="particlesCanvas"></canvas>
+
   <!-- Ambient background glow elements -->
   <div class="bg-ambient-lights" aria-hidden="true">
     <div class="ambient-orb orb-1"></div>
@@ -51,6 +54,7 @@
           <li><a href="#education" class="nav-link">Education</a></li>
           <li><a href="#experience" class="nav-link">Experience</a></li>
           <li><a href="#projects" class="nav-link">Projects</a></li>
+          <li><a href="#milestones" class="nav-link">Milestones</a></li>
           <li><a href="#skills" class="nav-link">Skills</a></li>
           <li><a href="#contact" class="nav-link">Contact</a></li>
         </ul>
@@ -81,6 +85,7 @@
     <a href="#education" class="nav-link">Education</a>
     <a href="#experience" class="nav-link">Internship Experience</a>
     <a href="#projects" class="nav-link">Projects</a>
+    <a href="#milestones" class="nav-link">Milestones & Credentials</a>
     <a href="#skills" class="nav-link">Skills</a>
     <a href="#contact" class="nav-link">Contact</a>
     <div style="margin-top: 1rem; display: flex; flex-direction: column; gap: 0.75rem;">
@@ -471,6 +476,13 @@
         <div class="projects-grid">
           <!-- PROJECT 1: Crypto Portfolio Manager -->
           <article class="project-card">
+            <div class="project-visual-wrapper">
+              <img src="assets/images/project1-crypto.jpg" alt="Crypto Portfolio Manager Preview" loading="lazy" />
+              <div class="project-live-indicator moving-crypto-ticker">
+                <i class="fa-solid fa-chart-line"></i> LIVE TICKER
+              </div>
+            </div>
+
             <div>
               <div class="project-card-top">
                 <span class="project-index">01 / FEATURED</span>
@@ -500,15 +512,24 @@
             </div>
 
             <div class="project-card-footer">
+              <button class="btn btn-secondary btn-sm" data-preview-project="1">
+                <i class="fa-regular fa-eye"></i> Quick Preview
+              </button>
               <a href="https://github.com/mohan3307/Crypto-Portfolio-Manager" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">
                 <i class="fa-brands fa-github"></i> View on GitHub
               </a>
-              <span style="font-size: 0.8rem; color: var(--accent-emerald);">Infosys Springboard</span>
             </div>
           </article>
 
           <!-- PROJECT 2: Automated Student Attendance Monitoring & Analytics System -->
           <article class="project-card">
+            <div class="project-visual-wrapper">
+              <img src="assets/images/project2-attendance.jpg" alt="AttendEdge Attendance Analytics Preview" loading="lazy" />
+              <div class="project-live-indicator moving-attendance-scan">
+                <i class="fa-solid fa-qrcode"></i> SCAN ACTIVE
+              </div>
+            </div>
+
             <div>
               <div class="project-card-top">
                 <span class="project-index">02</span>
@@ -538,15 +559,24 @@
             </div>
 
             <div class="project-card-footer">
+              <button class="btn btn-secondary btn-sm" data-preview-project="2">
+                <i class="fa-regular fa-eye"></i> Quick Preview
+              </button>
               <a href="https://github.com/mohan3307/Automated-student-attendance-monitoring-and-analytics-system-for-colleges" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">
                 <i class="fa-brands fa-github"></i> View on GitHub
               </a>
-              <span style="font-size: 0.8rem; color: #38bdf8;">Full-Stack Web</span>
             </div>
           </article>
 
           <!-- PROJECT 3: Smart Community Health Monitoring & Early Warning System -->
           <article class="project-card">
+            <div class="project-visual-wrapper">
+              <img src="assets/images/project3-water-health.jpg" alt="Smart Community Health Preview" loading="lazy" />
+              <div class="project-live-indicator moving-radar-pulse">
+                <i class="fa-solid fa-satellite-dish"></i> SENSOR RADAR
+              </div>
+            </div>
+
             <div>
               <div class="project-card-top">
                 <span class="project-index">03</span>
@@ -576,15 +606,30 @@
             </div>
 
             <div class="project-card-footer">
+              <button class="btn btn-secondary btn-sm" data-preview-project="3">
+                <i class="fa-regular fa-eye"></i> Quick Preview
+              </button>
               <a href="https://github.com/mohan3307/Smart-Community-Health-Monitoring-and-Early-Warning-System-for-Water-Borne-Diseases" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">
                 <i class="fa-brands fa-github"></i> View on GitHub
               </a>
-              <span style="font-size: 0.8rem; color: #34d399;">HealthTech / IoT</span>
             </div>
           </article>
 
           <!-- PROJECT 4: Voice-Controlled Gaming Tools for Enhanced Learning -->
           <article class="project-card">
+            <div class="project-visual-wrapper">
+              <img src="assets/images/project4-voice-gaming.jpg" alt="Voice-Controlled Gaming Preview" loading="lazy" />
+              <div class="project-live-indicator moving-audio-eq">
+                <span class="eq-bars">
+                  <span class="eq-bar"></span>
+                  <span class="eq-bar"></span>
+                  <span class="eq-bar"></span>
+                  <span class="eq-bar"></span>
+                </span>
+                VOICE ACTIVE
+              </div>
+            </div>
+
             <div>
               <div class="project-card-top">
                 <span class="project-index">04</span>
@@ -614,15 +659,24 @@
             </div>
 
             <div class="project-card-footer">
+              <button class="btn btn-secondary btn-sm" data-preview-project="4">
+                <i class="fa-regular fa-eye"></i> Quick Preview
+              </button>
               <a href="https://github.com/mohan3307/Voice-Controlled-Gaming-Tools-for-Enhanced-Learning-in-the-Skill-Ecosystem" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">
                 <i class="fa-brands fa-github"></i> View on GitHub
               </a>
-              <span style="font-size: 0.8rem; color: #a855f7;">Voice AI & Gaming</span>
             </div>
           </article>
 
           <!-- PROJECT 5: AegisResponse – Smart Ambulance Allocation & Hospital Routing -->
           <article class="project-card">
+            <div class="project-visual-wrapper">
+              <img src="assets/images/project5-smart-ambulance.jpg" alt="AegisResponse Smart Ambulance Preview" loading="lazy" />
+              <div class="project-live-indicator moving-emergency-beacon">
+                <i class="fa-solid fa-truck-medical"></i> GPS DISPATCH
+              </div>
+            </div>
+
             <div>
               <div class="project-card-top">
                 <span class="project-index">05</span>
@@ -652,10 +706,12 @@
             </div>
 
             <div class="project-card-footer">
+              <button class="btn btn-secondary btn-sm" data-preview-project="5">
+                <i class="fa-regular fa-eye"></i> Quick Preview
+              </button>
               <a href="https://github.com/mohan3307/Smart-Ambulance-Allocation-Hospital-Routing" target="_blank" rel="noopener noreferrer" class="btn btn-outline btn-sm">
                 <i class="fa-brands fa-github"></i> View on GitHub
               </a>
-              <span style="font-size: 0.8rem; color: #f59e0b;">Emergency Logistics</span>
             </div>
           </article>
         </div>
@@ -674,6 +730,94 @@
             <span>View All Projects on GitHub</span>
             <i class="fa-solid fa-arrow-up-right-from-square" style="font-size: 0.85rem; margin-left: 0.25rem;"></i>
           </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ==================== CREDENTIALS & MILESTONES SECTION ==================== -->
+    <section class="section" id="milestones">
+      <div class="container">
+        <div class="section-header">
+          <span class="section-tag">
+            <i class="fa-solid fa-certificate"></i> Verified Milestones
+          </span>
+          <h2 class="section-title">
+            Internship & Academic <span class="gradient-text">Milestones</span>
+          </h2>
+          <p class="section-subtitle">
+            Formal industry credentials, enterprise automation training, and collaborative engineering milestones.
+          </p>
+        </div>
+
+        <div class="milestones-grid">
+          <!-- Milestone 1: Pega -->
+          <div class="milestone-card">
+            <div>
+              <div class="milestone-header">
+                <div class="milestone-icon icon-pega">
+                  <i class="fa-solid fa-bolt"></i>
+                </div>
+                <div>
+                  <h3 class="milestone-title">Pega Internship Project</h3>
+                  <p class="milestone-org">Enterprise BPA & Application Development</p>
+                </div>
+              </div>
+              <p class="milestone-desc">
+                Currently engaged in enterprise workflow modeling, low-code solution architecture, case lifecycle management, and business process automation.
+              </p>
+            </div>
+            <div>
+              <span class="status-badge-ongoing">
+                <span class="pulsing-dot"></span> Currently Ongoing
+              </span>
+            </div>
+          </div>
+
+          <!-- Milestone 2: Infosys Springboard -->
+          <div class="milestone-card">
+            <div>
+              <div class="milestone-header">
+                <div class="milestone-icon icon-infosys">
+                  <i class="fa-solid fa-award"></i>
+                </div>
+                <div>
+                  <h3 class="milestone-title">Infosys Springboard Internship</h3>
+                  <p class="milestone-org">Crypto Portfolio Manager Solution</p>
+                </div>
+              </div>
+              <p class="milestone-desc">
+                Successfully developed and delivered a cryptocurrency portfolio management solution focusing on data handling, reporting algorithms, and analytics.
+              </p>
+            </div>
+            <div>
+              <span class="status-badge-completed">
+                <i class="fa-solid fa-check"></i> Completed & Verified
+              </span>
+            </div>
+          </div>
+
+          <!-- Milestone 3: B.Tech CSBS -->
+          <div class="milestone-card">
+            <div>
+              <div class="milestone-header">
+                <div class="milestone-icon icon-csbs">
+                  <i class="fa-solid fa-graduation-cap"></i>
+                </div>
+                <div>
+                  <h3 class="milestone-title">B.Tech CSBS (3rd Year)</h3>
+                  <p class="milestone-org">V.S.B Engineering College, Tamil Nadu</p>
+                </div>
+              </div>
+              <p class="milestone-desc">
+                Pursuing 3rd-year engineering curriculum combining computing algorithms, software systems, relational databases, and enterprise business strategies.
+              </p>
+            </div>
+            <div>
+              <span class="milestone-badge">
+                <i class="fa-solid fa-calendar-check"></i> Batch 2024 – 2028
+              </span>
+            </div>
+          </div>
         </div>
       </div>
     </section>
@@ -931,6 +1075,45 @@
       </div>
     </div>
   </footer>
+
+  <!-- ==================== PROJECT DETAILS MODAL TEMPLATE ==================== -->
+  <div class="modal-overlay" id="projectModal" aria-hidden="true" role="dialog" aria-modal="true">
+    <div class="modal-dialog">
+      <button class="modal-close-btn" id="modalCloseBtn" aria-label="Close modal">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+      <div class="modal-image-banner">
+        <img id="modalImg" src="" alt="Project Preview" />
+      </div>
+      <div class="modal-body">
+        <h3 class="modal-title" id="modalTitle">Project Title</h3>
+        <p class="modal-subtitle" id="modalCategory">Category</p>
+        
+        <div class="modal-section-title">System Overview</div>
+        <p class="modal-description" id="modalDesc">Description</p>
+
+        <div class="modal-section-title">Technologies Used</div>
+        <div class="project-tech-stack" id="modalTechStack"></div>
+
+        <div class="modal-section-title">Key Architectural Features</div>
+        <ul class="modal-features-list" id="modalFeatures"></ul>
+
+        <div class="modal-section-title">Clone Repository</div>
+        <div class="modal-clone-box">
+          <code id="modalCloneCode">git clone ...</code>
+          <button class="btn btn-outline btn-sm" id="modalCopyCloneBtn">
+            <i class="fa-regular fa-copy"></i> Copy
+          </button>
+        </div>
+
+        <div class="modal-footer">
+          <a href="#" target="_blank" rel="noopener noreferrer" class="btn btn-primary" id="modalGithubBtn">
+            <i class="fa-brands fa-github"></i> Open on GitHub
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
 
   <!-- Scripts -->
   <script src="js/main.js"></script>
