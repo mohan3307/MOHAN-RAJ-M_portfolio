@@ -1,99 +1,43 @@
 %PDF-1.4
+%‚„œ”
 1 0 obj
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+<< /Type /Pages /Kids [3 0 R 7 0 R] /Count 2 >>
 endobj
 3 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
 endobj
 4 0 obj
-<< /Length 1780 >>
+<< /Length 2473 >>
 stream
 BT
-/F2 20 Tf
-50 740 Td
-(Mohan Raj M) Tj
-0 -20 Td
-/F1 11 Tf
-(B.Tech CSBS Student | Aspiring Software Developer) Tj
-0 -15 Td
-/F1 9 Tf
-(Tamil Nadu, India  |  V.S.B Engineering College  |  GitHub: https://github.com/mohan3307) Tj
-0 -22 Td
-/F2 12 Tf
-(ABOUT ME) Tj
-0 -14 Td
-/F1 9 Tf
-(Motivated Computer Science and Business Systems (CSBS) student with strong communication,) Tj
-0 -12 Td
-(teamwork, problem-solving, and time-management skills. Focused on software development and enterprise business solutions.) Tj
-0 -22 Td
-/F2 12 Tf
-(EDUCATION) Tj
-0 -14 Td
-/F2 10 Tf
-(V.S.B Engineering College, Tamil Nadu) Tj
-0 -12 Td
-/F1 9 Tf
-(B.Tech - Computer Science and Business Systems (CSBS) | 2024 - 2028 (3rd Year Pursuing)) Tj
-0 -22 Td
-/F2 12 Tf
-(INTERNSHIP EXPERIENCE) Tj
-0 -14 Td
-/F2 10 Tf
-(Pega Internship Project - Currently Ongoing) Tj
-0 -12 Td
-/F1 9 Tf
-(- Gaining hands-on experience in application development, business process automation (BPA), and enterprise software.) Tj
-0 -15 Td
-/F2 10 Tf
-(Infosys Springboard Internship - Completed) Tj
-0 -12 Td
-/F1 9 Tf
-(- Developed Crypto Portfolio Manager tracking solution with structured data handling, reporting, and analytics.) Tj
-0 -22 Td
-/F2 12 Tf
-(FEATURED PROJECTS (Available on GitHub: https://github.com/mohan3307)) Tj
-0 -14 Td
-/F2 10 Tf
-(1. Crypto Portfolio Manager (Python, Data Analytics, Database)) Tj
-0 -12 Td
-/F1 9 Tf
-(- Cryptocurrency portfolio tracking solution for monitoring asset valuations, calculating returns, and trend analytics.) Tj
-0 -15 Td
-/F2 10 Tf
-(2. AttendEdge - Student Attendance Monitoring & Analytics (React Vite, Node.js, SQLite, REST)) Tj
-0 -12 Td
-/F1 9 Tf
-(- Full-stack portal for colleges with role-based logins, one-click roster attendance, and longitudinal risk alerts.) Tj
-0 -15 Td
-/F2 10 Tf
-(3. Smart Community Health & Early Warning System (Full-Stack Web, Health Surveillance, IoT)) Tj
-0 -12 Td
-/F1 9 Tf
-(- Digital health surveillance monitoring water quality parameters and mitigating water-borne disease outbreaks.) Tj
-0 -15 Td
-/F2 10 Tf
-(4. Voice-Controlled Gaming Tools for Enhanced Learning (React, TypeScript, Web Speech API, Socket.IO)) Tj
-0 -12 Td
-/F1 9 Tf
-(- Gamified learning platform controlling code sandboxes and quizzes via hands-free browser voice commands.) Tj
-0 -15 Td
-/F2 10 Tf
-(5. AegisResponse - Smart Ambulance Allocation & Routing (Full-Stack, Geospatial Routing, Triage)) Tj
-0 -12 Td
-/F1 9 Tf
-(- Golden Hour emergency clinical optimization system matching specialized ambulances with dynamic hospital capacity.) Tj
-0 -22 Td
-/F2 12 Tf
-(TECHNICAL & SOFT SKILLS) Tj
-0 -14 Td
-/F1 9 Tf
-(Technical: Python (Basic), Database Fundamentals, Git & GitHub, MS Word, MS Excel, MS PowerPoint) Tj
-0 -12 Td
-(Soft Skills: Communication, Teamwork & Collaboration, Problem Solving, Time Management, Adaptability) Tj
+/F2 22 Tf 50 745 Td (Mohan Raj M) Tj
+0 -20 Td /F2 11 Tf (B.Tech Computer Science and Business Systems \(CSBS\) | 3rd Year) Tj
+0 -16 Td /F1 9.5 Tf (Tamil Nadu, India   |   V.S.B Engineering College   |   GitHub: https://github.com/mohan3307) Tj
+0 -28 Td /F2 12 Tf (ABOUT ME) Tj
+0 -15 Td /F1 9.5 Tf (Motivated Computer Science and Business Systems student with strong communication, teamwork,) Tj
+0 -13 Td /F1 9.5 Tf (problem-solving, and time-management skills. Passionate about software development, low-code systems,) Tj
+0 -13 Td /F1 9.5 Tf (and bridging technical engineering with enterprise business operations.) Tj
+0 -25 Td /F2 12 Tf (EDUCATION) Tj
+0 -15 Td /F2 10.5 Tf (V.S.B Engineering College, Tamil Nadu) Tj
+0 -13 Td /F1 9.5 Tf (B.Tech - Computer Science and Business Systems \(CSBS\)  |  2024 - 2028  |  Currently pursuing 3rd Year) Tj
+0 -25 Td /F2 12 Tf (INTERNSHIP EXPERIENCE) Tj
+0 -16 Td /F2 10.5 Tf (Pega Internship Project) Tj 280 0 Td /F2 9.5 Tf ([Currently Ongoing]) Tj -280 0 Td
+0 -13 Td /F1 9.5 Tf (Role: Enterprise Application Development & Business Process Automation \(BPA\)) Tj
+0 -13 Td /F1 9.5 Tf (- Building enterprise workflow architectures, case lifecycles, rule resolution, and data transforms.) Tj
+0 -13 Td /F1 9.5 Tf (- Gaining hands-on industrial practice in enterprise low-code systems and business process automation.) Tj
+0 -18 Td /F2 10.5 Tf (Infosys Springboard Internship) Tj 280 0 Td /F1 9.5 Tf ([Completed]) Tj -280 0 Td
+0 -13 Td /F1 9.5 Tf (Project: Crypto Portfolio Manager) Tj
+0 -13 Td /F1 9.5 Tf (- Engineered a cryptocurrency asset portfolio tracking system with real-time analytics and summaries.) Tj
+0 -13 Td /F1 9.5 Tf (- Handled structured data pipelines, automated portfolio metrics, performance calculation, and reporting.) Tj
+0 -13 Td /F1 9.5 Tf (- Collaborated closely within team sprints focusing on agile delivery, testing, and system reliability.) Tj
+0 -25 Td /F2 12 Tf (SKILLS & COMPETENCIES) Tj
+0 -15 Td /F2 10 Tf (Technical Skills:) Tj 85 0 Td /F1 9.5 Tf (Python \(Basic\), Java \(Foundation\), Database Fundamentals, IoT Sensors, Git & GitHub) Tj -85 0 Td
+0 -14 Td /F2 10 Tf (Office Productivity:) Tj 98 0 Td /F1 9.5 Tf (Microsoft Word, Microsoft Excel, Microsoft PowerPoint) Tj -98 0 Td
+0 -14 Td /F2 10 Tf (Soft Skills:) Tj 65 0 Td /F1 9.5 Tf (Communication, Teamwork & Collaboration, Problem Solving, Time Management, Adaptability) Tj -65 0 Td
+0 -25 Td /F1 8.5 Tf ([Page 1 of 2 - Continued on next page]) Tj
 ET
 endstream
 endobj
@@ -103,17 +47,62 @@ endobj
 6 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
 endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 8 0 R /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> >>
+endobj
+8 0 obj
+<< /Length 3798 >>
+stream
+BT
+/F2 13 Tf 50 745 Td (Mohan Raj M - Projects & Verified Certifications) Tj
+0 -20 Td /F2 12 Tf (PROJECTS \(All Uploaded & Verified on GitHub: github.com/mohan3307\)) Tj
+0 -16 Td /F2 10.5 Tf (1. Crypto Portfolio Manager) Tj 220 0 Td /F1 9 Tf (Stack: Python, DB Fundamentals, Analytics) Tj -220 0 Td
+0 -13 Td /F1 9 Tf (- Cryptocurrency tracking engine providing asset valuation, portfolio analytics, and automated reporting.) Tj
+0 -12 Td /F1 8.5 Tf (  Repo: https://github.com/mohan3307/Crypto-Portfolio-Manager) Tj
+0 -16 Td /F2 10.5 Tf (2. AttendEdge - Student Attendance Monitoring & Analytics) Tj
+0 -13 Td /F1 9 Tf (- Full-stack college attendance system with role-based dashboards \(Admin/Faculty/Student\) & batch roster logging.) Tj
+0 -12 Td /F1 9 Tf (- Longitudinal analytics engine detecting at-risk attendance thresholds with instant visual alerts.) Tj
+0 -12 Td /F1 8.5 Tf (  Stack: React \(Vite\), Node.js, Express, SQLite | Repo: github.com/mohan3307/...attendance-monitoring) Tj
+0 -16 Td /F2 10.5 Tf (3. Smart Community Health & Early Warning System) Tj
+0 -13 Td /F1 9 Tf (- Public health sensor telemetry platform monitoring water quality and predicting water-borne disease outbreaks.) Tj
+0 -12 Td /F1 9 Tf (- Real-time sensor threshold alerts, automated contamination notifications, and geospatial risk mapping.) Tj
+0 -12 Td /F1 8.5 Tf (  Stack: Web Systems, IoT Telemetry, Sensor Analytics | Repo: github.com/mohan3307/...water-borne-diseases) Tj
+0 -16 Td /F2 10.5 Tf (4. Voice-Controlled Gaming Tools for Enhanced Learning) Tj
+0 -13 Td /F1 9 Tf (- Gamified educational platform utilizing Web Speech API for hands-free voice coding sandboxes & quiz challenges.) Tj
+0 -12 Td /F1 9 Tf (- Real-time multiplayer peer competition, interactive badges, quest trees, and live learning telemetry.) Tj
+0 -12 Td /F1 8.5 Tf (  Stack: React.js, TypeScript, Node.js, Socket.IO, Web Speech API | Repo: github.com/mohan3307/...gaming-tools) Tj
+0 -16 Td /F2 10.5 Tf (5. AegisResponse - Smart Ambulance Allocation & Hospital Routing) Tj
+0 -13 Td /F1 9 Tf (- Emergency triage dispatch platform matching patient trauma severity with ICU/trauma bed capacities.) Tj
+0 -12 Td /F1 9 Tf (- Live paramedic transit telemetry, 'Golden Hour' timeline monitoring, and dynamic hospital routing.) Tj
+0 -12 Td /F1 8.5 Tf (  Stack: Geospatial Routing, Full-Stack Telemetry | Repo: github.com/mohan3307/...ambulance-allocation) Tj
+0 -24 Td /F2 12 Tf (VERIFIED INDUSTRY CERTIFICATIONS) Tj
+0 -15 Td /F2 10 Tf (1. Crypto Portfolio Manager 6.0) Tj 190 0 Td /F1 9 Tf (- Infosys Springboard Project Completion) Tj -190 0 Td
+0 -12 Td /F1 8.5 Tf (   Credential: https://drive.google.com/file/d/1mbTqsOaohlPDAHmf7799F5nx_HiTpsow/view) Tj
+0 -14 Td /F2 10 Tf (2. Python Foundation) Tj 190 0 Td /F1 9 Tf (- Programming & Algorithmic Core Logic) Tj -190 0 Td
+0 -12 Td /F1 8.5 Tf (   Credential: https://drive.google.com/file/d/14-gyQyoxGuEcVp-OJ0Ofa-xTWuLWTqNa/view) Tj
+0 -14 Td /F2 10 Tf (3. Java Foundation Certificate) Tj 190 0 Td /F1 9 Tf (- Object-Oriented Programming \(OOP\) & Architectures) Tj -190 0 Td
+0 -12 Td /F1 8.5 Tf (   Credential: https://drive.google.com/file/d/1uRQedH5jAiWvIgB-_e17cIquVSX8bsIM/view) Tj
+0 -14 Td /F2 10 Tf (4. Introduction to IoT) Tj 190 0 Td /F1 9 Tf (- Connected Smart Sensors & Wireless Telemetry) Tj -190 0 Td
+0 -12 Td /F1 8.5 Tf (   Credential: https://drive.google.com/file/d/1oMsGdQzun1NAuBCRxzlFfXgCDNu-CXlD/view) Tj
+0 -14 Td /F2 10 Tf (5. Business Marketing \(Tech Focus\)) Tj 190 0 Td /F1 9 Tf (- Computer Science & Business Systems \(CSBS\) Alignment) Tj -190 0 Td
+0 -12 Td /F1 8.5 Tf (   Credential: https://drive.google.com/file/d/1NVY1dHYs9d-bNRPw_4jtpLJaUehzNgG2/view) Tj
+0 -22 Td /F1 8.5 Tf ([Page 2 of 2  |  Portfolio: mohan3307.github.io  |  GitHub: github.com/mohan3307]) Tj
+ET
+endstream
+endobj
 xref
-0 7
+0 9
 0000000000 65535 f 
-0000000009 00000 n 
-0000000058 00000 n 
-0000000115 00000 n 
-0000000248 00000 n 
-0000002080 00000 n 
-0000002163 00000 n 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000263 00000 n 
+0000002788 00000 n 
+0000002858 00000 n 
+0000002933 00000 n 
+0000003069 00000 n 
 trailer
-<< /Size 7 /Root 1 0 R >>
+<< /Size 9 /Root 1 0 R >>
 startxref
-2251
+6919
 %%EOF

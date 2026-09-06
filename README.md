@@ -40,12 +40,20 @@ A clean, modern, and fully responsive dark-themed portfolio website designed for
    - **5. AegisResponse – Smart Ambulance Allocation & Routing**: [GitHub Repo](https://github.com/mohan3307/Smart-Ambulance-Allocation-Hospital-Routing) (Full-Stack Systems, Geospatial Routing, Emergency Triage).
    - Prominent global CTA button: **"View All Projects on GitHub"** linking directly to [https://github.com/mohan3307](https://github.com/mohan3307).
 
-6. **Skills & Capabilities**:
-   - **Technical Skills**: Python (Basic), Database Fundamentals, Git & GitHub.
+6. **Certifications & Credentials (Verified Links)**:
+   - **Crypto Portfolio Manager 6.0**: [Google Drive Credential](https://drive.google.com/file/d/1mbTqsOaohlPDAHmf7799F5nx_HiTpsow/view?usp=sharing) (Infosys Springboard Internship)
+   - **Python Foundation**: [Google Drive Credential](https://drive.google.com/file/d/14-gyQyoxGuEcVp-OJ0Ofa-xTWuLWTqNa/view?usp=sharing) (Programming & Core Logic)
+   - **Java Foundation Certificate**: [Google Drive Credential](https://drive.google.com/file/d/1uRQedH5jAiWvIgB-_e17cIquVSX8bsIM/view?usp=sharing) (Object-Oriented Programming & Architectures)
+   - **Introduction to IoT**: [Google Drive Credential](https://drive.google.com/file/d/1oMsGdQzun1NAuBCRxzlFfXgCDNu-CXlD/view?usp=sharing) (Sensors & Embedded Telemetry)
+   - **Business Marketing (Tech Focus)**: [Google Drive Credential](https://drive.google.com/file/d/1NVY1dHYs9d-bNRPw_4jtpLJaUehzNgG2/view?usp=sharing) (Computer Science & Business Systems)
+   - **Pega Internship Milestone**: Ongoing industrial enterprise automation.
+
+7. **Skills & Capabilities**:
+   - **Technical Skills**: Python (Basic), Java (Foundation), Database Fundamentals, IoT & Connected Sensors, Git & GitHub.
    - **Productivity & Business Tools**: MS Word, MS Excel, MS PowerPoint.
    - **Soft Skills**: Communication, Teamwork & Collaboration, Problem Solving, Time Management, Adaptability.
 
-7. **Contact Section**:
+8. **Contact Section**:
    - Direct cards for GitHub, Email (with 1-click clipboard copy), and College location.
    - Working interactive message form with instant validation and feedback toasts.
    - Download resume buttons linked to `assets/resume.pdf` and printable `assets/resume.html`.
