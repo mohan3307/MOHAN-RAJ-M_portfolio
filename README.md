@@ -1,9 +1,13 @@
 # Mohan Raj M - Professional Portfolio Website
 
+> 🌐 **Live Portfolio Website:** **[https://mohan3307.github.io/MOHAN-RAJ-M_portfolio/](https://mohan3307.github.io/MOHAN-RAJ-M_portfolio/)**  
+> 🔗 **GitHub Repository:** **[https://github.com/mohan3307/MOHAN-RAJ-M_portfolio](https://github.com/mohan3307/MOHAN-RAJ-M_portfolio)**
+
 A clean, modern, and fully responsive dark-themed portfolio website designed for **Mohan Raj M**, a 3rd-year B.Tech Computer Science and Business Systems (CSBS) student at **V.S.B Engineering College, Tamil Nadu**.
 
-![Portfolio Preview Banner](https://img.shields.io/badge/Theme-Modern%20Dark-38bdf8?style=for-the-badge)
-![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-10b981?style=for-the-badge)
+[![Live Portfolio](https://img.shields.io/badge/Live%20Demo-mohan3307.github.io%2FMOHAN--RAJ--M__portfolio-success?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohan3307.github.io/MOHAN-RAJ-M_portfolio/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/mohan3307/MOHAN-RAJ-M_portfolio)
+![Theme](https://img.shields.io/badge/Theme-Modern%20Dark-38bdf8?style=for-the-badge)
 ![Responsive](https://img.shields.io/badge/Responsive-Mobile%20%7C%20Tablet%20%7C%20Desktop-6366f1?style=for-the-badge)
 
 ---
@@ -97,26 +101,21 @@ http://localhost:8000
 
 ## 🌐 How to Deploy for Free on GitHub Pages
 
-1. **Create a GitHub Repository**:
-   - Log into your GitHub account (`mohan3307`).
-   - Create a new public repository named `mohan3307.github.io` (or `portfolio`).
-
-2. **Push the Files**:
+1. **Push the Files to GitHub**:
    ```bash
-   git init
-   git add .
-   git commit -m "Initial commit: Mohan Raj M Portfolio Website"
-   git branch -M main
-   git remote add origin https://github.com/mohan3307/mohan3307.github.io.git
    git push -u origin main
    ```
 
-3. **Enable GitHub Pages**:
-   - Go to your repository settings -> **Pages**.
-   - Under **Build and deployment**, select `Deploy from a branch`.
-   - Choose branch `main` and folder `/(root)`.
+2. **Enable GitHub Pages**:
+   - Navigate to: **[Repository Settings -> Pages](https://github.com/mohan3307/MOHAN-RAJ-M_portfolio/settings/pages)**
+   - Under **Build and deployment**:
+     - **Source**: Select `Deploy from a branch`
+     - **Branch**: Select `main` and folder `/(root)`
    - Click **Save**.
-   - Your website will be live in ~1 minute at `https://mohan3307.github.io`!
+
+3. **Visit Your Live Portfolio**:
+   - Your portfolio will be live in ~1 minute at:  
+     👉 **[https://mohan3307.github.io/MOHAN-RAJ-M_portfolio/](https://mohan3307.github.io/MOHAN-RAJ-M_portfolio/)**
 
 ---
 
