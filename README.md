@@ -126,5 +126,5 @@ http://localhost:8000
   Open `index.html` and search for `Project 02 Title`, `Project 03 Title`, etc. Replace the placeholder text inside the `<h3 class="project-title">` and `<li>` tags with your repository name, description, and exact GitHub links.
 - **To update your Resume PDF**:
   Replace `assets/resume.pdf` with your updated resume PDF file using the exact same filename.
-- **To update your Email**:
-  Search for `mohanraj@example.com` in `index.html` and replace it with your personal or college email address.
+- **Contact Email**:
+  Configured to `mohanrajm03032007@gmail.com` across contact cards, 1-click clipboard copy, mailto forms, and resumes.

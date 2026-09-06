@@ -416,7 +416,7 @@ function initContactForm() {
 
       showToast('Message sent! Mohan will get back to you soon.', 'success');
 
-      const mailtoLink = `mailto:mohanraj@example.com?subject=Portfolio Inquiry from ${encodeURIComponent(name)}&body=${encodeURIComponent(message + '\n\nFrom: ' + name + ' (' + email + ')')}`;
+      const mailtoLink = `mailto:mohanrajm03032007@gmail.com?subject=Portfolio Inquiry from ${encodeURIComponent(name)}&body=${encodeURIComponent(message + '\n\nFrom: ' + name + ' (' + email + ')')}`;
       window.location.href = mailtoLink;
 
       contactForm.reset();
@@ -431,7 +431,7 @@ function initClipboardActions() {
   copyButtons.forEach(button => {
     button.addEventListener('click', (e) => {
       e.preventDefault();
-      const emailToCopy = button.getAttribute('data-copy-email') || 'mohanraj@example.com';
+      const emailToCopy = button.getAttribute('data-copy-email') || 'mohanrajm03032007@gmail.com';
 
       if (navigator.clipboard && window.isSecureContext) {
         navigator.clipboard.writeText(emailToCopy)
