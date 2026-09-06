@@ -1,6 +1,6 @@
 # Mohan Raj M - Professional Portfolio Website
 
-A clean, modern, and fully responsive dark-themed portfolio website designed for **Mohan Raj M**, a 2nd-year B.Tech Computer Science and Business Systems (CSBS) student at **V.S.B Engineering College, Tamil Nadu**.
+A clean, modern, and fully responsive dark-themed portfolio website designed for **Mohan Raj M**, a 3rd-year B.Tech Computer Science and Business Systems (CSBS) student at **V.S.B Engineering College, Tamil Nadu**.
 
 ![Portfolio Preview Banner](https://img.shields.io/badge/Theme-Modern%20Dark-38bdf8?style=for-the-badge)
 ![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-10b981?style=for-the-badge)
@@ -13,6 +13,7 @@ A clean, modern, and fully responsive dark-themed portfolio website designed for
 1. **Hero Section**:
    - High-impact introduction with glowing typography and animated background orbs.
    - Status badge: `Pega Intern • Currently Ongoing` + `V.S.B Engineering College`.
+   - Metric indicator: `3rd Year B.Tech CSBS`.
    - Tagline: *"Building projects, learning technology, and turning ideas into practical solutions."*
    - Interactive visual code mockup card showcasing CSBS profile definition.
    - Action buttons: `View My Projects`, `GitHub`, and `Download Resume`.
@@ -24,17 +25,19 @@ A clean, modern, and fully responsive dark-themed portfolio website designed for
 3. **Education**:
    - **V.S.B Engineering College**
    - **B.Tech – Computer Science and Business Systems (CSBS)**
-   - **2024 – 2028 | Currently pursuing 2nd Year**
+   - **2024 – 2028 | Currently pursuing 3rd Year**
    - Location: Karur / Tamil Nadu, India.
 
 4. **Internship Experience Timeline**:
    - **Pega Internship Project** — Highlighted prominently with a pulsing green badge as **Currently Ongoing** (focus on enterprise application development, business process automation, and workflow design).
    - **Infosys Springboard Internship** — Completed (Project: *Crypto Portfolio Manager* with data handling, reporting, and analytics).
 
-5. **Projects Section**:
-   - 5 Project Cards:
-     - **Project 01 (Featured)**: *Crypto Portfolio Manager* (Infosys Springboard) with tech stack, key features, and GitHub link.
-     - **Projects 02 – 05**: Clean, labeled placeholders with tech tags and key feature lists ready to link to your exact GitHub repositories.
+5. **Projects Section (5 Completed Projects)**:
+   - **1. Crypto Portfolio Manager**: [GitHub Repo](https://github.com/mohan3307/Crypto-Portfolio-Manager) (Python, Database Fundamentals, Data Analytics).
+   - **2. AttendEdge – Student Attendance Analytics**: [GitHub Repo](https://github.com/mohan3307/Automated-student-attendance-monitoring-and-analytics-system-for-colleges) (React Vite, Node.js, SQLite, REST API).
+   - **3. Smart Community Health & Early Warning System**: [GitHub Repo](https://github.com/mohan3307/Smart-Community-Health-Monitoring-and-Early-Warning-System-for-Water-Borne-Diseases) (Full-Stack Web, Health Surveillance, Data Visualization).
+   - **4. Voice-Controlled Gaming Tools for Enhanced Learning**: [GitHub Repo](https://github.com/mohan3307/Voice-Controlled-Gaming-Tools-for-Enhanced-Learning-in-the-Skill-Ecosystem) (React, TypeScript, Web Speech API, Socket.IO).
+   - **5. AegisResponse – Smart Ambulance Allocation & Routing**: [GitHub Repo](https://github.com/mohan3307/Smart-Ambulance-Allocation-Hospital-Routing) (Full-Stack Systems, Geospatial Routing, Emergency Triage).
    - Prominent global CTA button: **"View All Projects on GitHub"** linking directly to [https://github.com/mohan3307](https://github.com/mohan3307).
 
 6. **Skills & Capabilities**:
