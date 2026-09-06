@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Mohan Raj M - Resume</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+    
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: 'Plus Jakarta Sans', sans-serif;
+      background: #f8fafc;
+      color: #1e293b;
+      line-height: 1.5;
+      padding: 2rem 1rem;
+    }
+    .resume-container {
+      max-width: 800px;
+      margin: 0 auto;
+      background: #ffffff;
+      padding: 3rem;
+      border-radius: 8px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+    }
+    header {
+      border-bottom: 2px solid #e2e8f0;
+      padding-bottom: 1.5rem;
+      margin-bottom: 1.75rem;
+    }
+    h1 {
+      font-size: 2.2rem;
+      color: #0f172a;
+      letter-spacing: -0.02em;
+    }
+    .title-sub {
+      font-size: 1.1rem;
+      color: #2563eb;
+      font-weight: 600;
+      margin-top: 0.25rem;
+    }
+    .contact-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1.25rem;
+      margin-top: 0.75rem;
+      font-size: 0.9rem;
+      color: #475569;
+    }
+    .contact-row a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+    section {
+      margin-bottom: 1.75rem;
+    }
+    h2 {
+      font-size: 1.15rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: #0f172a;
+      border-left: 4px solid #2563eb;
+      padding-left: 0.6rem;
+      margin-bottom: 1rem;
+    }
+    .exp-item, .edu-item {
+      margin-bottom: 1.25rem;
+    }
+    .exp-header, .edu-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      font-weight: 600;
+      color: #0f172a;
+      font-size: 1.05rem;
+    }
+    .role {
+      color: #475569;
+      font-size: 0.95rem;
+      font-weight: 500;
+      margin-top: 0.1rem;
+    }
+    .date-badge {
+      font-size: 0.85rem;
+      color: #64748b;
+      font-weight: 500;
+    }
+    ul {
+      list-style-type: square;
+      padding-left: 1.25rem;
+      margin-top: 0.5rem;
+      color: #334155;
+      font-size: 0.925rem;
+    }
+    li {
+      margin-bottom: 0.35rem;
+    }
+    .skills-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1rem;
+    }
+    .skill-category {
+      background: #f1f5f9;
+      padding: 0.85rem 1rem;
+      border-radius: 6px;
+    }
+    .skill-category strong {
+      display: block;
+      color: #0f172a;
+      font-size: 0.9rem;
+      margin-bottom: 0.35rem;
+    }
+    .skill-category p {
+      font-size: 0.875rem;
+      color: #334155;
+    }
+    .print-bar {
+      max-width: 800px;
+      margin: 0 auto 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .btn-print {
+      background: #2563eb;
+      color: #ffffff;
+      border: none;
+      padding: 0.6rem 1.2rem;
+      border-radius: 6px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    @media print {
+      body {
+        background: #ffffff;
+        padding: 0;
+      }
+      .resume-container {
+        box-shadow: none;
+        padding: 0;
+        max-width: 100%;
+      }
+      .print-bar {
+        display: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="print-bar">
+    <a href="../index.html" style="color: #2563eb; text-decoration: none; font-weight: 600;">&larr; Back to Portfolio</a>
+    <button class="btn-print" onclick="window.print()">Print / Save as PDF</button>
+  </div>
+
+  <div class="resume-container">
+    <header>
+      <h1>Mohan Raj M</h1>
+      <div class="title-sub">B.Tech CSBS Student | Aspiring Software Developer</div>
+      <div class="contact-row">
+        <span>📍 Tamil Nadu, India</span>
+        <span>🎓 V.S.B Engineering College</span>
+        <span>🔗 <a href="https://github.com/mohan3307" target="_blank">github.com/mohan3307</a></span>
+        <span>✉️ <a href="mailto:mohanraj@example.com">mohanraj@example.com</a></span>
+      </div>
+    </header>
+
+    <section>
+      <h2>About Me</h2>
+      <p style="font-size: 0.95rem; color: #334155;">
+        Motivated Computer Science and Business Systems (CSBS) student with strong communication, teamwork, problem-solving, and time-management skills. Passionate about technology, software development, and enterprise business solutions.
+      </p>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <div class="edu-item">
+        <div class="edu-header">
+          <span>V.S.B Engineering College</span>
+          <span class="date-badge">2024 – 2028 | 2nd Year</span>
+        </div>
+        <div class="role">B.Tech – Computer Science and Business Systems (CSBS)</div>
+        <p style="font-size: 0.875rem; color: #64748b; margin-top: 0.25rem;">Tamil Nadu, India</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Internship Experience</h2>
+      <div class="exp-item">
+        <div class="exp-header">
+          <span>Pega Internship Project</span>
+          <span class="date-badge" style="color: #10b981; font-weight: 700;">Currently Ongoing</span>
+        </div>
+        <div class="role">Intern – Enterprise Application Development & Business Process Automation</div>
+        <ul>
+          <li>Currently working on application development, business process automation, and enterprise software solutions.</li>
+          <li>Gaining practical experience in low-code architecture, enterprise workflow design, and system integration.</li>
+        </ul>
+      </div>
+
+      <div class="exp-item">
+        <div class="exp-header">
+          <span>Infosys Springboard Internship</span>
+          <span class="date-badge">Completed</span>
+        </div>
+        <div class="role">Project: Crypto Portfolio Manager</div>
+        <ul>
+          <li>Developed a cryptocurrency portfolio tracking solution.</li>
+          <li>Worked on data handling, reporting, and analytics.</li>
+          <li>Gained experience in portfolio management concepts, data analysis, teamwork, and problem-solving.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>Projects</h2>
+      <div class="exp-item">
+        <div class="exp-header">
+          <span>Crypto Portfolio Manager</span>
+          <span class="date-badge">Python, Database, Analytics</span>
+        </div>
+        <ul>
+          <li>Developed cryptocurrency portfolio tracking system for real-time asset evaluation.</li>
+          <li>Engineered structured reporting modules and analytics calculations.</li>
+        </ul>
+      </div>
+      <div class="exp-item">
+        <div class="exp-header">
+          <span>Completed 5 Projects on GitHub</span>
+          <span class="date-badge"><a href="https://github.com/mohan3307" target="_blank">github.com/mohan3307</a></span>
+        </div>
+        <ul>
+          <li>Successfully developed and uploaded five functional projects to GitHub.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <div class="skills-grid">
+        <div class="skill-category">
+          <strong>Technical Skills</strong>
+          <p>Python (Basic), Database Fundamentals, Git & GitHub</p>
+        </div>
+        <div class="skill-category">
+          <strong>Productivity & Office</strong>
+          <p>MS Word, MS Excel, MS PowerPoint</p>
+        </div>
+        <div class="skill-category" style="grid-column: span 2;">
+          <strong>Soft Skills</strong>
+          <p>Communication, Teamwork & Collaboration, Problem Solving, Time Management, Adaptability</p>
+        </div>
+      </div>
+    </section>
+  </div>
+</body>
+</html>
