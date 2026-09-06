@@ -1,14 +1,19 @@
-# Mohan Raj M - Professional Portfolio Website
+# 🚀 Mohan Raj M - Professional Portfolio Website
 
-> 🌐 **Live Portfolio Website:** **[https://mohan3307.github.io/MOHAN-RAJ-M_portfolio/](https://mohan3307.github.io/MOHAN-RAJ-M_portfolio/)**  
-> 🔗 **GitHub Repository:** **[https://github.com/mohan3307/MOHAN-RAJ-M_portfolio](https://github.com/mohan3307/MOHAN-RAJ-M_portfolio)**
+<div align="center">
+
+### 🌐 **Live Website:** [https://mohan3307.github.io/MOHAN-RAJ-M_portfolio/](https://mohan3307.github.io/MOHAN-RAJ-M_portfolio/)
+
+[![Live Portfolio](https://img.shields.io/badge/LIVE%20DEMO-VISIT%20WEBSITE-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohan3307.github.io/MOHAN-RAJ-M_portfolio/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/mohan3307/MOHAN-RAJ-M_portfolio)
+[![Status](https://img.shields.io/badge/Status-Live%20%26%20Deployed-38bdf8?style=for-the-badge)](https://mohan3307.github.io/MOHAN-RAJ-M_portfolio/)
+[![Theme](https://img.shields.io/badge/Theme-Dark%20Modern-6366f1?style=for-the-badge)](https://mohan3307.github.io/MOHAN-RAJ-M_portfolio/)
+
+</div>
+
+---
 
 A clean, modern, and fully responsive dark-themed portfolio website designed for **Mohan Raj M**, a 3rd-year B.Tech Computer Science and Business Systems (CSBS) student at **V.S.B Engineering College, Tamil Nadu**.
-
-[![Live Portfolio](https://img.shields.io/badge/Live%20Demo-mohan3307.github.io%2FMOHAN--RAJ--M__portfolio-success?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mohan3307.github.io/MOHAN-RAJ-M_portfolio/)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/mohan3307/MOHAN-RAJ-M_portfolio)
-![Theme](https://img.shields.io/badge/Theme-Modern%20Dark-38bdf8?style=for-the-badge)
-![Responsive](https://img.shields.io/badge/Responsive-Mobile%20%7C%20Tablet%20%7C%20Desktop-6366f1?style=for-the-badge)
 
 ---
 
